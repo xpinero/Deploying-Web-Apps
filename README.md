@@ -16,6 +16,7 @@ Follow these steps for completing your project.
 - [ ] Show them that it has been added to your portfolio
 - [ ] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
 - [ ] Once you have finished, your TL will count the project as completed
+- [ ] Xaver Pinero
 
 ### Task 2a: MVP
 
